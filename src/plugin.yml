@@ -1,0 +1,5 @@
+name: WGEnderPearlFIX
+author: MAKSHOUW
+version: 0.1
+main: be.makshouw.enderpearl.Enderpearl
+depend: [WorldGuard, WorldEdit]
